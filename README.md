@@ -7,3 +7,4 @@ Esta linea representa el segundo cmommit por terminal aun repositorio remoto
 Esta linea representa el primer commit con interfaz visuall con Github Desktop
 esta liea representa un commit por terminal en la carpeta git para ejercitargitPull en gitHub Desktop 
 Esta linea representa el uso de SourceControl para el manejo de repositorios con Visual Studio Code
+Esta linea representa el segundo commit con Visual Studio Code dedes Source Control
